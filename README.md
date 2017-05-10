@@ -1,5 +1,6 @@
 # photobooth
-Photo booth created with raspberry pi to take 3 pictures and put them into one with a background, also turns 3 images into a .gif file then post to web
+Photo booth created with raspberry pi to take 3 pictures and put them into one with a unique framework,
+TRYING TO turn the 3 images into a .gif file then post to the web -need help with this-
 CREDITS:
 
 Project: Photobooth https://github.com/ronbal/photobooth
